@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Submit Empty Comment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dda60f57-6457-4cb1-94e1-19aac0d2cfa7</testCaseGuid>
+</TestCaseEntity>

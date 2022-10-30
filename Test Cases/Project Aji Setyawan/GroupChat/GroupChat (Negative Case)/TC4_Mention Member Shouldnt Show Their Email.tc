@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_Mention Member Shouldnt Show Their Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6dcda2d-9e8d-4f3f-9287-9e80ece28968</testCaseGuid>
+</TestCaseEntity>

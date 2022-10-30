@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_My User Shouldnt Be Showed at Mention Member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c20f84d7-a284-468e-b73c-6c7b4c819922</testCaseGuid>
+</TestCaseEntity>
